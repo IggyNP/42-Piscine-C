@@ -1,6 +1,8 @@
 # C Piscine @ 42 Málaga
 This repository contains coding developed at [42 Málaga's](https://www.42malaga.com/) C Piscine, from 4/July/2022 to 29/July/2022.
 
+:es: To read the Spanish version check [README-ES.md](https://github.com/IggyNP/42-Piscine-C/blob/main/README-ES.md) out. :es:
+
 ## What is 42?
 42 is the answer to the Ultimate Question of Life, The Universe and Everything. (Quoted from The Hitchhiker's Guide to the Galaxy by Douglas Adams). 
 
