@@ -5,7 +5,7 @@ Este repositorio contiene código desarrollado en la piscina C de [42 Málaga](h
 42 es la respuesta al sentido de la vida, el universo y todo lo demás. (Cita de la novela La Guía del Autoestopista Galáctico de Douglas Adams). 
 
 Bromas a parte, 42 es una iniciativa global de educación gratuita que brinda una manera innovativa de aprender a programar. Se caracteriza por: 
-- No hay profresores.
+- No hay profesores.
 - Aprendizaje par a par. Con una metodología que no solo logra un desarrollo en habilidades informáticas, sino a nivel personal.
 - Abierto 24/7.
 
